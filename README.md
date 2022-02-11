@@ -4,4 +4,4 @@
 - I would like to contribute to something cool,
 - Even if it is just helping with a manual.
 - I made a clock app using an online tutorial
-- I have spent countless hours learning how to add features to it.
+- I have spent countless hours learning how to add features to the silly little thing.
