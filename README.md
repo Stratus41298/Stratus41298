@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Stratus41298
+- 
+- I am starting to learn Python again.
+- I would like to contribute to something cool,
+- Even if it is just helping with a manual.
+- I made a clock app using an online tutorial
+- I have spent countless hours learning how to add features to it.
